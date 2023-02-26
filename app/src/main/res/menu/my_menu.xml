@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:id="@+id/home"></item>
+
+    <item android:title="@string/massVolumeConverter"
+         android:id="@+id/mass_volume_conv"></item>
+
+    <item android:title="@string/temperatureConverter"
+        android:id="@+id/temperature_conv"></item>
+
+    <item android:title="Version info"
+        android:id="@+id/version_info"></item>
+
+
+</menu>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="app_version">Version 2.0.0</string>
+    <string name="massVolumeConverter">Mass-Volume Converter</string>
+    <string name="temperatureConverter">Temperature Converter</string>
+    <string name="facts">Facts</string>
+    <string name="ok">OK</string>
+    <string name="Nothing_info">Pick an ingredient</string>
+    <string name="Water_info">There are numerous benefits to drinking water and staying hydrated:\n- Boosts energy, immune system and brain function.\n- Prevents and treats headaches.\n- Maintains blood pressure.\n- Promotes weight loss.\n- Delivers oxygen throughout the body.\n- Flushes out toxins and body waste.\n- Improves physical performance.</string>
+    <string name="Oil_info">What is the best way to cook with olive oil? \n- As part of a marinade.\n- Drizzled over cooked pasta or vegetables.\n- As part of a vinaigrette for salad dressings.\n- Mixed with herbs to use as a bread dip.\n- As part of a sauce.\n- A replacement for butter in dessert recipes.\n- As a finish or condiment.</string>
+    <string name="Flour_info">Here are the nutrition facts for 100g of wheat flour:\n\nCalories: 340 cal\nWater: 11%\nProtein: 13.2 g\nCarbs: 72 g\nSugar: 0.4 g\nFiber: 10.7 g\nFat: 2.5 g\n\nProtein content limits rising and spreading during baking.\nTo ensure that your baked goods turn out, look for recipes that already include wheat flour, or a mix of wheat and white flours.</string>
+    <string name="Sugar_info">Sugars added to food or drinks, and sugars found naturally in honey, syrups, and unsweetened fruit and vegetable juices, smoothies and purées should not make up more than 5% of the calories you get from food and drink each day.\n\nLimit of free sugars per day:\nAdults - 30g\nChildren aged 7 to 10 - 24g\nChildren aged 4 to 6 - 19g </string>
+    <string name="Honey_info">Honey contains small amounts of a wide array of vitamins, minerals, amino acids and antioxidants, is a rich source of carbohydrates, provides a quick source of energy and is an effective antimicrobial agent.\n\nWhen baking with honey, remember the following:\n- Reduce liquid called for by 1/4 cup for each cup of honey used.\n- Add 1/2 teaspoon baking soda for each cup of honey used.\n- Reduce oven temperature by 25°F to prevent over-browning.</string>
+    <string name="Wine_info"><b>What are the best  wines for cooking?</b>\n\n<b>White</b>\nDry Sherry\nPinot Grigio\nSauvignon Blanc\n\n<b>Red</b>\nCabernet sauvignon\nPinot noir\nMerlot\n\n<b>What to substitute for wine in cooking?</b>\nChicken, vegetable, or beef stock\nRed or white wine vinegar\nGrape, cranberry, or pomegranate juice</string>
+    <string-array name="temperature_unit">
+        <item>ºC</item>
+        <item>ºF</item>
+        <item>K</item>
+    </string-array>
+
+    <string-array name="mass_volume_unit">
+        <item>lb</item>
+        <item>oz</item>
+        <item>gr</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>gal</item>
+        <item>pt</item>
+        <item>fl oz</item>
+        <item>cm3</item>
+        <item>in3</item>
+        <item>mL</item>
+        <item>L</item>
+        <item>cup</item>
+        <item>tblsp</item>
+        <item>tsp</item>
+        <item>drop</item>
+    </string-array>
+
+    <string-array name="ingredients_list">
+        <item>Not specified ingredient</item>
+        <item>Water</item>
+        <item>Olive Oil</item>
+        <item>White Wheat Flour</item>
+        <item>White Granulated Sugar</item>
+        <item>Honey</item>
+        <item>Wine</item>
+    </string-array>
+
+</resources>
